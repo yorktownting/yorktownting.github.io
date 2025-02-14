@@ -1,5 +1,24 @@
 
-title: 丁佳乐 | 浙江大学 遥感与地理信息系统 博士
+
+remote_theme: yaoyao-liu/minimal-light
+
+# 基本信息
+title: 丁佳乐
+position: Ph.D. Candidate
+affiliation: 浙江大学 | Zhejiang University
+email: yorktown@zju.edu.cn
+
+# 搜索引擎优化 (SEO)
+keywords: minimal light
 description: 研究方向为时空大数据与人工智能，预计毕业时间2026年6月
 
-remote_theme: pages-themes/minimal
+# 链接
+github_link: https://github.com/yorktownting/
+linkedin: www.linkedin.com/in/jialeding-yorktown/
+google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=Sx-Nk64AAAAJ/
+cv_link: ./assets/Curriculum_Vitae.pdf
+
+# 图片路径
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
