@@ -9,8 +9,8 @@ affiliation: 浙江大学 | Zhejiang University
 email: yorktown@zju.edu.cn
 
 # 搜索引擎优化 (SEO)
-keywords: minimal light
-description: 研究方向为时空大数据与人工智能，预计毕业时间2026年6月
+keywords: 个人主页; 时空大数据; 人工智能; 深度学习; GeoAI; GIS; 2026; 博士
+description: 研究方向为时空大数据与人工智能 (GeoAI)，预计毕业时间2026年6月
 
 # 链接
 github_link: https://github.com/yorktownting/
@@ -21,4 +21,3 @@ cv_link: ./assets/Curriculum_Vitae.pdf
 # 图片路径
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
